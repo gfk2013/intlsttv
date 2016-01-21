@@ -739,8 +739,6 @@ http://starhdlive2-lh.akamaihd.net/i/live_1@181243/master.m3u8
 http://www.iptvsaga.com/play/tv3/0143.m3u8
 #EXTINF:0070 tvg-id="Euronews.nws" group-title="Greek" tvg-logo="00000000.png",[COLOR orange]EURONEWS[/COLOR]
 rtsp://ewns-hls-b-stream.hexaglobe.net/rtpeuronewslive/gr_vidan750_rtp.sdp
-#EXTINF:0070 tvg-id="Skai.gr" group-title="Greek" tvg-logo="00000000.png",[COLOR orange]Skai[/COLOR]
-https://manifest.googlevideo.com/api/manifest/hls_playlist/id/W_oUsIkmm6I.1/itag/92/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/cmbypass/yes/gir/yes/dg_shard/V19vVXNJa21tNkkuMQ.92/hls_chunk_host/r13---sn-4g57kn67.googlevideo.com/pmbypass/yes/gcr/de/playlist_type/DVR/mm/32/mn/sn-4g57kn67/ms/lv/mv/u/nh/IgpwcjAxLmZyYTAzKgkxMjcuMC4wLjE/pl/18/dover/3/keepalive/yes/sver/3/upn/yCnTbAsJQ2s/fexp/9416126,9420452,9422596,9423662/mt/1453384152/ip/88.64.88.251/ipbits/0/expire/1453406109/sparams/ip,ipbits,expire,id,itag,source,requiressl,ratebypass,live,cmbypass,gir,dg_shard,hls_chunk_host,pmbypass,gcr,playlist_type,mm,mn,ms,mv,nh,pl/signature/27F51CA82C11F209184DCAD4003790C6ECF7D282.3B21B6ADFE2F6851DF81ADFB4DE84250E3B17659/key/dg_yt0/playlist/index.m3u8
 #EXTINF:0070 tvg-id="MacedoniaEN.gr" group-title="Greek" tvg-logo="00000000.png",[COLOR orange]Makedonia TV[/COLOR]
 http://stream.maktv.gr/i/live_1@332903/master.m3u8
 #EXTINF:0070 tvg-id="" group-title="Greek" tvg-logo="00000000.png",[COLOR orange]TV-100[/COLOR]
