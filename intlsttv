@@ -751,7 +751,7 @@ http://www.iptvsaga.com/play/tv3/0141.m3u8
 http://www.iptvsaga.com/play/tv3/0142.m3u8
 #EXTINF:0070 tvg-id="" group-title="Greek" tvg-logo="00000000.png",[COLOR orange]Blue Sky[/COLOR]
 http://www.iptvsaga.com/play/tv3/0146.m3u8
-#EXTINF:0070 tvg-id="MADTV.gr" group-title="Greek" tvg-logo="00000000.png",[COLOR orange]SBC[/COLOR]
+#EXTINF:0070 tvg-id="" group-title="Greek" tvg-logo="00000000.png",[COLOR orange]SBC[/COLOR]
 http://xsbcgrx.api.channel.livestream.com/3.0/playlist.m3u8
 #EXTINF:0070 tvg-id="" group-title="Greek" tvg-logo="00000000.png",[COLOR orange]APEIRO TV[/COLOR]
 http://94.23.218.186:1935/galanos2/galanos2/playlist.m3u8
